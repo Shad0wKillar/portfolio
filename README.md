@@ -1,5 +1,7 @@
 ![shad0w-dev Platform](public/shad0w-dev-og-new.png)
 
+> NOTE: The site is online at: https://portfolio-liard-seven-82.vercel.app/
+
 # shad0w-dev
 
 A highly optimized, modern developer portfolio engineered to showcase advanced software development projects and system architectures. This platform serves as a digital resume.
