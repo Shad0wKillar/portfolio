@@ -5,4 +5,4 @@ User-agent: *
 Allow: /
 
 # Set sitemap here.
-# Sitemap: https://url:TODO/sitemap.xml
+Sitemap: https://portfolio-liard-seven-82.vercel.app/sitemap.xml

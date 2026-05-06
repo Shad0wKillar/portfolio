@@ -19,7 +19,7 @@ use_front_matter_path: false
 file_template: ":filename:"
 build:
   preview_env:
-    - NEXT_PUBLIC_URL=TODO,set site url here
+    - NEXT_PUBLIC_URL=https://portfolio-liard-seven-82.vercel.app/
     - NEXT_PUBLIC_EMAIL=legendatonline@gmail.com
   preview_output_directory: ".next"
   install_dependencies_command: npm install
