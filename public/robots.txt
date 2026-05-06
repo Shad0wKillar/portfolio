@@ -1,0 +1,8 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+
+# Set sitemap here.
+# Sitemap: https://url:TODO/sitemap.xml
